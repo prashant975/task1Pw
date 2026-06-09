@@ -1,0 +1,70 @@
+[
+  {
+    "start": 3.0,
+    "end": 7.48,
+    "action": "highlight_question"
+  },
+  {
+"start": 8.48,
+"end": 9.00,
+"action": "highlight_option_a"
+},
+{
+"start": 9.00,
+"end": 10.50,
+"action": "highlight_option_b"
+},
+{
+"start": 10.50,
+"end": 11.50,
+"action": "highlight_option_c"
+},
+{
+"start": 11.50,
+"end": 13.5,
+"action": "highlight_option_d"
+}
+,
+  {
+    "start": 15.92,
+    "end": 17.50,
+    "action": "write_heading_formula",
+    "content": "Distance Formula"
+  },
+  {
+    "start": 18,
+    "end": 24.88,
+    "action": "write_formula",
+    "content": "D = √((x2-x1)^2 + (y2-y1)^2)"
+  },
+  {
+    "start": 24.88,
+    "end": 30.68,
+    "action": "write_heading_substitution",
+    "content": "Substituting Values"
+  },
+  {
+    "start": 30.68,
+    "end": 47.20,
+    "action": "write_substitution",
+    "content": "D = √((4-1)^2 + (6-2)^2)"
+  },
+  {
+    "start": 47.20,
+    "end": 61.28,
+    "action": "write_simplification",
+    "content": "D = √(3^2 + 4^2) = √(9+16)"
+  },
+  {
+    "start": 61.28,
+    "end": 66.28,
+    "action": "write_final_answer",
+    "content": "D = 5 units"
+  },
+  {
+    "start": 66.28,
+    "end": 69.88,
+    "action": "circle_correct_option",
+    "option": "C"
+  }
+]

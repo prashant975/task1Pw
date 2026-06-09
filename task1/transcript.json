@@ -1,0 +1,47 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.48,
+        "text": "Hello students. So, the question reads as find the distance between the points a 1, 2 and"
+    },
+    {
+        "start": 7.48,
+        "end": 15.92,
+        "text": "4, 6 options are 3 units, 4 units, 5 units and 6 units. We do that distance between 2 points"
+    },
+    {
+        "start": 15.92,
+        "end": 24.88,
+        "text": "is given as under root of x 2 minus x 1 whole square plus y 2 minus y 1 whole square."
+    },
+    {
+        "start": 24.88,
+        "end": 30.68,
+        "text": "If there is z coordinate, we will also write plus z 2 minus z 1 whole square. So, doing"
+    },
+    {
+        "start": 30.68,
+        "end": 40.12,
+        "text": "this calculation, we will get x 2 as 4 and we will write as 4 minus 1 whole square plus"
+    },
+    {
+        "start": 40.12,
+        "end": 47.2,
+        "text": "y 2 is 6. So, we will write as 6 minus 2 whole square. So, d comes out to be under root"
+    },
+    {
+        "start": 47.2,
+        "end": 57.52,
+        "text": "of 3 square plus 4 square which will be equal to under root of 9 plus 16 which comes out"
+    },
+    {
+        "start": 57.52,
+        "end": 66.28,
+        "text": "to be under root 25. So, the answer will be d is equal to 5 units. So, option number"
+    },
+    {
+        "start": 66.28,
+        "end": 69.88,
+        "text": "c will be the answer. Thank you."
+    }
+]
