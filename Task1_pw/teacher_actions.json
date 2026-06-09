@@ -1,0 +1,35 @@
+[
+    {
+        "time": 0,
+        "action": "highlight_question"
+    },
+    {
+        "time": 7,
+        "action": "highlight_options"
+    },
+    {
+        "time": 16,
+        "action": "write",
+        "text": "d = sqrt((x2-x1)^2 + (y2-y1)^2)"
+    },
+    {
+        "time": 31,
+        "action": "write",
+        "text": "= sqrt((4-1)^2 + (6-2)^2)"
+    },
+    {
+        "time": 42,
+        "action": "write",
+        "text": "= sqrt(3^2 + 4^2)"
+    },
+    {
+        "time": 49,
+        "action": "write",
+        "text": "= sqrt(9 + 16)"
+    },
+    {
+        "time": 59,
+        "action": "write",
+        "text": "= 5 units"
+    }
+]

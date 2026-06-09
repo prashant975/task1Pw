@@ -1,0 +1,122 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.34,
+        "action": "highlight",
+        "content": "Find the distance between the points A (1, 2) and (4, 6).",
+        "x": 28,
+        "y": 65,
+        "x_end": 896,
+        "y_end": 117
+    },
+    {
+        "start": 9.18,
+        "end": 9.94,
+        "action": "highlight",
+        "content": "(A) 3 units",
+        "x": 24,
+        "y": 140,
+        "x_end": 198,
+        "y_end": 188
+    },
+    {
+        "start": 10.1,
+        "end": 10.72,
+        "action": "highlight",
+        "content": "(B) 4 units",
+        "x": 25,
+        "y": 195,
+        "x_end": 195,
+        "y_end": 239
+    },
+    {
+        "start": 10.92,
+        "end": 11.48,
+        "action": "highlight",
+        "content": "(C) 5 units",
+        "x": 24,
+        "y": 246,
+        "x_end": 196,
+        "y_end": 294
+    },
+    {
+        "start": 11.88,
+        "end": 12.64,
+        "action": "highlight",
+        "content": "(D) 6 units",
+        "x": 24,
+        "y": 300,
+        "x_end": 198,
+        "y_end": 348
+    },
+    {
+        "start": 15.72,
+        "end": 24.54,
+        "action": "latex",
+        "latex": "D=\\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}",
+        "x": 470,
+        "y": 120,
+        "image": "latex_cache/formula_0.png",
+        "handwriting_image": "handwriting_cache/formula_0.png"
+    },
+    {
+        "start": 35.96,
+        "end": 44.62,
+        "action": "latex",
+        "latex": "D=\\sqrt{(4-1)^2+(6-2)^2}",
+        "x": 470,
+        "y": 180,
+        "image": "latex_cache/formula_1.png",
+        "handwriting_image": "handwriting_cache/formula_1.png"
+    },
+    {
+        "start": 45.36,
+        "end": 51.34,
+        "action": "latex",
+        "latex": "D=\\sqrt{3^2+4^2}",
+        "x": 470,
+        "y": 240,
+        "image": "latex_cache/formula_2.png",
+        "handwriting_image": "handwriting_cache/formula_2.png"
+    },
+    {
+        "start": 51.34,
+        "end": 56.24,
+        "action": "latex",
+        "latex": "D=\\sqrt{9+16}",
+        "x": 470,
+        "y": 300,
+        "image": "latex_cache/formula_3.png",
+        "handwriting_image": "handwriting_cache/formula_3.png"
+    },
+    {
+        "start": 56.24,
+        "end": 59.32,
+        "action": "latex",
+        "latex": "D=\\sqrt{25}",
+        "x": 470,
+        "y": 360,
+        "image": "latex_cache/formula_4.png",
+        "handwriting_image": "handwriting_cache/formula_4.png"
+    },
+    {
+        "start": 60.08,
+        "end": 64.14,
+        "action": "latex",
+        "latex": "D=5\\ units",
+        "x": 470,
+        "y": 420,
+        "image": "latex_cache/formula_5.png",
+        "handwriting_image": "handwriting_cache/formula_5.png"
+    },
+    {
+        "start": 64.74,
+        "end": 68.18,
+        "action": "circle",
+        "content": "(C) 5 units",
+        "x": 24,
+        "y": 246,
+        "x_end": 196,
+        "y_end": 294
+    }
+]

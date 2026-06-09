@@ -1,0 +1,17 @@
+.env
+
+__pycache__/
+
+.venv/
+
+*.pyc
+
+*.log
+
+*.mp4
+
+frames/
+
+svg_frames/
+
+output/
